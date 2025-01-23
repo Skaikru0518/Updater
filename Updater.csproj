@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageIcon>icon.ico</PackageIcon>
-    <FileVersion>1.0.0</FileVersion>
+    <FileVersion>1.0.2</FileVersion>
 	  <Authors>Skaikru</Authors>
     <ApplicationIcon>icon.ico</ApplicationIcon>
   </PropertyGroup>
